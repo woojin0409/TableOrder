@@ -16,7 +16,11 @@ POS 시스템으로 실시간 전달되는 스마트 주문 시스템입니다.
 ⚡ 실시간 주문 처리 기능
 
 ## ⚒️ 기술 스택
-☕ Java
-🌱 Spring Boot
-⚙️ Gradle
-🐙 GitHub
+
+- ☕ Java
+- 🌱 Spring Boot
+- 🌐 Spring Web
+- 🗄️ MariaDB
+- 🧾 JSP
+- ⚙️ Gradle
+- 🐙 GitHub
